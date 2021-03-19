@@ -8,13 +8,11 @@
 =    Resume    =
 ================
 -Date: 03/11/21-
-	PROFESSIONAL SUMMAR
+	PROFESSIONAL SUMMARY
 Information Technology professional specializing in .NET programming. Extensive experience using and maintaining warehouse technology. Searching for a technology support or technology specialist position.
-
 	TECHNOLOGY SKILLS
 Designing useful web applications and information systems through .NET framework using Visual Basic, C#, Active Server Pages (ASP), Razor, databases, and other technologies.
 Using web design skills to develop interesting and functional web pages with HTML5, CSS, and JavaScript (including JavaScript Object Notation and jQuery).
-
 	EDUCATION AND PROJECTS
 Bachelors in Information Technology, Web Development Using .NET
 American Public University System, Charles Town, WV
@@ -24,7 +22,6 @@ Calculator Projects: VB, C#, AJAX, Web API, jQuery, Razor, SQL, Python, and othe
 	- Front-end Web Design / Back-end Web Design
 Technology Solution Project: Agile development
 	- Create IT solutions for established company with great attention to detail 
-  
 	EMPLOYMENT
 Applied Industrial Technologies, Carlisle Distribution Center – JR2194
 Carlisle, PA (since 12/2005, 15 years)
@@ -44,7 +41,6 @@ Proven success in safety and business practices
 •	Utilizing Kaizen principles to suggest better, safer, and cost-effective methods of performing business procedures without compromising customer service (Continuous Improvement)
 •	Certified in Adult CPR and AED
 •	Perform duties with integrity and sound business judgment according to company policies
-
 
 <!---
 cRohrer82/cRohrer82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
