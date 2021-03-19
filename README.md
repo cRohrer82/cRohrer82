@@ -29,14 +29,14 @@ Technology Solution Project: Agile development<br>
 •	Used analytical and communication skills to instruct other team members and management on methods of completing tasks with SAP both in-person and with step-by-step instructions<br>
 •	Flexible and can operate in any position in shipping<br>
 •	Communicate issues with new WMS to management and troubleshoot solutions<br>
-•	Helped save about 10 person-hours per week<br>
+•	Helped save about 10 person-hours per week<br><br>
 <p>Utilizing technical skills</p>
 •	Performed removal and installation of end-user desktop computer hardware, software (including Windows operating systems), and networking devices at 5 different areas<br>
 •	Utilize Microsoft Office and file management for creating and maintaining reports and step-by-step instructions<br>
-•	Helped plan installation of new equipment, saving 10 minutes / day<br>
+•	Helped plan installation of new equipment, saving 10 minutes / day<br><br>
 <p>Distribution Center Shipping Team Lead Backup</p>
-•	Managing a lean team that can still reliably process 150 – 200 orders or more per day through UPS, FedEx, and freight line carriers<br>
-•	Receiving 5 or more phone calls from customers or representatives per day<br>
+•	Managing a lean team that can still reliably process 150 – 200 orders or more per day through UPS, FedEx, and freight line carriers
+•	Receiving 5 or more phone calls from customers or representatives per day<br><br>
 <p>Proven success in safety and business practices</p>
 •	Utilizing Kaizen principles to suggest better, safer, and cost-effective methods of performing business procedures without compromising customer service (Continuous Improvement)<br>
 •	Certified in Adult CPR and AED<br>
