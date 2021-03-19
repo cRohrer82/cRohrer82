@@ -7,6 +7,7 @@
 ================
 =    Resume    =
 ================
+
 -Date: 03/11/21-
 	PROFESSIONAL SUMMARY
 Information Technology professional specializing in .NET programming. Extensive experience using and maintaining warehouse technology. Searching for a technology support or technology specialist position.
