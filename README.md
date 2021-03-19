@@ -19,7 +19,7 @@ Using web design skills to develop interesting and functional web pages with HTM
 	Magna Cum Laude
 Calculator Projects: VB, C#, AJAX, Web API, jQuery, Razor, SQL, Python, and others<br>
 	- Enter two numbers and calculate the sum/difference/product/quotient<br>
-	- Front-end Web Design / Back-end Web Design<br>
+	- Front-end Web Design / Back-end Web Design<br><br>
 Technology Solution Project: Agile development<br>
 	- Create IT solutions for established company with great attention to detail
 ### EMPLOYMENT
