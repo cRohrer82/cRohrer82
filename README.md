@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cRohrer82
-- 📫 How to reach me: email - crohrer160@gmail.com
-- 📫 How to reach me: LinkedIn - http://www.linkedin.com/in/christopher-rohrer-1982sept
-
+<!--
 # =    Resume    =
 
 -Date: 07/26/21-
